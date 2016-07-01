@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is dedicated to all of the little annoyances we find on the internet.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email [Matthias Leyrer](mailto:mjleyrer@gmail.com) or [Michael Knepprath](mailto:mknepprath@gmail.com).
