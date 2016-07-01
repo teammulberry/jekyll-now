@@ -272,15 +272,15 @@ nav {
     width: 100%;
     display: block;
     margin: 0 auto;
-    .sm-img {
-      max-width: 360px;
-    }
-    .md-img {
-      max-width: 520px;
-    }
-    .lg-img {
-      max-width: 100%;
-    }
+  }
+  .sm-img {
+    max-width: 360px;
+  }
+  .md-img {
+    max-width: 520px;
+  }
+  .lg-img {
+    max-width: 100%;
   }
 
   .read-more {
