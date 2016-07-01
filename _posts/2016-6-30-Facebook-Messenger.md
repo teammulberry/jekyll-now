@@ -4,8 +4,8 @@ title: I need to know who I'm talking to.
 ---
 
 Frustrating as Facebook may be, we all use it for communicating and although they have pushed us toward using the messaging app, sometimes we are on a computer (novelty, I know).
+<!--more-->
 
-​
 Normally when someone is online, you get a green dot next to their name:
 
 <img src="{{ site.baseurl }}/images/001-1-facebook.png" alt="Green Dot" class="sm-img"/>
