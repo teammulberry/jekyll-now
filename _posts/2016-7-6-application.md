@@ -3,7 +3,7 @@ layout: post
 title: Go ahead, throw your talent away
 ---
 
-You wan to know a sure-fire way that I **won't** work for your company?
+You want to know a sure-fire way that I **won't** work for your company?
 <!--more-->
 
 Make me go to a separate page, create and account, input all my information (including my resume), ask if want to receive news about your company, create a username and password, and then finally allow me to apply for your job.
