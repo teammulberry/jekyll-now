@@ -23,4 +23,4 @@ That's it.
 
 Ok, I wrote this and now I'm adding an example. Found this one while applying for jobs, exactly what I'm talking about.
 
-<img src="{{ site.baseurl }}/images/slick-application.png" alt="slick application" class="sm-img"/>
+<img src="{{ site.baseurl }}/images/slick- application.png" alt="slick application" class="sm-img"/>
